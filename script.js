@@ -1,4 +1,4 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
+const message = 'haloo sayangg akuu farrel daffa athaya ryantama disini aku buat inii karena aku mau berterimakasih ke kamuu karena udaa nerimaa aku yang masih belum punyaa apa", tapi aku akan selalu mengusahakan buat kamu dill. mungkin menurutmu ini terlau cept tapi aku benar" serius dengan kamu dan omongan ini akan aku pastikan jika kita udaa lulus nanti (asek), udaa wes yaa dibacaa yaaa love uuuu sayangkuu maaf ini asline UALAYYYY TAPI LUCU AE MAKANE TAK BUAT'
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -21,3 +21,4 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
